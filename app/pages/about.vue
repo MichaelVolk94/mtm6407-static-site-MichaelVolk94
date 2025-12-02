@@ -4,7 +4,7 @@
       <nav>
       <ul>
         <li class="navlinks"><NuxtLink to="/about" class="cta-button">About</NuxtLink></li>
-        <li class="navlinks"><NuxtLink to="/index" class="cta-button">Home</NuxtLink></li>
+        <li class="navlinks"><NuxtLink to="/" class="cta-button">Home</NuxtLink></li>
         <li class="navlinks"><NuxtLink to="/contact" class="cta-button">Contact</NuxtLink></li>
         <li class="navlinks"><NuxtLink to="/products" class="cta-button">Products</NuxtLink></li>
       </ul>

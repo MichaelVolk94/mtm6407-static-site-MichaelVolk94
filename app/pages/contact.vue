@@ -27,9 +27,10 @@ function submitForm() {
 <p>Email: volk0026@algonquinlive.com</p>
 <p>Phone Number: 613-521-8567</p>
     </div>
+    <div class="form-container">
     <form class="form-group">
         <div class="form-group">
-            <label for="nail">Name</label>
+            <label for="name">Name</label>
             <input v-model="form.name" type="text" id="name" required />
         </div>
 
@@ -41,9 +42,12 @@ function submitForm() {
         <label for="message">Message</label>
         <textarea v-model="form.message" id="message" rows="5" required></textarea>
       </div>
+      
+
       <p class="thank-you" v-if="submitted">Thanks! I'll get back to you soon.</p>
       </div>
     </form>
+    </div>
     </template>
 
 <style scoped>
@@ -73,8 +77,17 @@ form {
 .form-group {
   display: flex;
   flex-direction: column;
-  
 }
+
+.form-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.form-group input, .form-group textarea {
+  width: 800px !important;
+}
+
 
 label {
   margin-bottom: 0.5rem;

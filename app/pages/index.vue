@@ -41,8 +41,8 @@ console.log(route.params.id)
         </li>
       </ul>
       </section>
-      <Footer />
     </div>
+    <footer>&#169; Michael Volk's Photography Studio 2025</footer>
 </template>
 
 

@@ -54,6 +54,7 @@ me a great deal of confidence.
 We sell camera equipment, photography class sessions, and of course photos! My job is to create the best experience for not just photographers, 
 but people starting out. If you ever want to start making photos in a professional manner, then Michael Volk's Photography Studio is the right place for you!</p>
 </div>
+ <footer>&#169; Michael Volk's Photography Studio 2025</footer>
  </template>
 
  <style scoped>

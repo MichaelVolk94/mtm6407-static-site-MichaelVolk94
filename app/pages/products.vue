@@ -31,6 +31,7 @@ depth of field, advanced lighting, shutter speeds, textures, and more!
 </p>
  </section>   
 </div>
+<footer>&#169; Michael Volk's Photography Studio 2025</footer>
 </template>
 
 <style>

@@ -48,6 +48,7 @@ function submitForm() {
       </div>
     </form>
     </div>
+    <footer>&#169; Michael Volk's Photography Studio 2025</footer>
     </template>
 
 <style scoped>

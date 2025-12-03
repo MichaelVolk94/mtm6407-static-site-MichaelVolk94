@@ -49,6 +49,7 @@ console.log(route.params.id)
           <img id="gallery-img" src="/images/IMG_3639.png">
         </li>
       </ul>
+      <footer>&#169; Michael Volk's Photography Studio 2025</footer>
       </section>
 </template>
 
